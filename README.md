@@ -1,2 +1,2 @@
-# FaceManager
-Facial Recognition Visual Editor - View / Edit Person Groups, Persons, and Faces.
+This tool was built to be used with the Microsoft Cognitive Service Face API.  It allows you to view / edit / delete Person Groups, Persons and Faces.
+
